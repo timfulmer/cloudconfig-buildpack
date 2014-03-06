@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "-----> Please enter some text"
+read INPUT
+echo ${INPUT} | indent

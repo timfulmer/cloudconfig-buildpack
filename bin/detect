@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read INPUT
+
+echo "CloudConfig"
+exit 0
