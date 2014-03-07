@@ -1,5 +1,5 @@
 #!/bin/bash
 
-curl -s -o - http://www.google.com
+echo $(curl -s -o - http://www.google.com)
 echo "CloudConfig"
 exit 0
