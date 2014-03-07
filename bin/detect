@@ -1,6 +1,5 @@
 #!/bin/bash
 
-read INPUT
-
+cat ~/.bash_profile
 echo "CloudConfig"
 exit 0
